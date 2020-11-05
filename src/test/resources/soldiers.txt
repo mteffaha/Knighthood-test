@@ -1,0 +1,10 @@
+Geffrei,21,1234
+Neal,43,1236
+Foulk,90,24
+Jamie,12,
+Arthur,26,123456
+Helyot,22,45
+Allie,32,12356
+Elise,35,246
+Alysone,21,146
+Sosanna,64,2563
